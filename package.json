@@ -1,0 +1,26 @@
+{
+  "name": "static-files",
+  "version": "1.0.0",
+  "description": "calis para archivos estaticos",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=4000 node index.js",
+    "start-dev": "PORT=4000 nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciolinares/bach3-reingreso.git"
+  },
+  "author": "Mauricio Linares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauriciolinares/bach3-reingreso/issues"
+  },
+  "homepage": "https://github.com/mauriciolinares/bach3-reingreso#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "nodemon": "^1.17.5"
+  }
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "username": "eldoro",
+        "email": "emial@email.net",
+        "role": "admin"
+
+    },
+    {
+        "username": "elrick",
+        "email": "emial@email.net",
+        "role": "user"
+
+    },
+    {
+        "username": "elpris",
+        "email": "emial@email.net",
+        "role": "colaborate"
+
+    },
+    {
+        "username": "elcrasis",
+        "email": "emial@email.net",
+        "role": "user"
+
+    },
+    {
+        "username": "elcronnd",
+        "email": "emial@email.net",
+        "role": "roll"
+
+    }
+]
